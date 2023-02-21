@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\bin\Debug\net6.0\ImportData.exe
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\bin\Debug\net6.0\ImportData.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\bin\Debug\net6.0\ImportData.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\bin\Debug\net6.0\ImportData.dll
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\bin\Debug\net6.0\ImportData.pdb
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ImportData.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ImportData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ImportData.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ImportData.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ImportData.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ImportData.dll
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\refint\ImportData.dll
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ImportData.pdb
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ImportData.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\ImportData\ImportData\obj\Debug\net6.0\ref\ImportData.dll
